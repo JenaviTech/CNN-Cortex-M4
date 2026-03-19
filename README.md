@@ -3,7 +3,7 @@
 **Description:**  
 This project explores the design of a Convolutional Neural Network (CNN) tailored for low-power microcontrollers. The goal was to optimize real-time pattern recognition for embedded systems, with a focus on energy efficiency and suitability for IoT and smart sensing applications.
 
-![CNN Architecture](a_flowchart_diagram_visually_represents_a_cnn_impl.png)
+![CNN Architecture](cortex-m4-cnn-iot.png)
 
 *Conceptual diagram showing the CNN workflow on a Cortex-M4 microcontroller for low-power IoT applications.*
 
